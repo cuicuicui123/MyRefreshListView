@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\Users\G777\Desktop\MagicCamera-master\RefreshListView\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\23.4.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="de4db3785756bfb0915a9f59a9b3f2fea7407be4">
+        <dex dex="C:\Users\G777\Desktop\MagicCamera-master\RefreshListView\app\build\intermediates\pre-dexed\debug\com.android.support-animated-vector-drawable-23.4.0_2404bc1c2d3740afc193bea88c3e7838a6562f81.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\G777\Desktop\MagicCamera-master\RefreshListView\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.4.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="67bd36ee9340ec7c254108936ad16b24bed160cc">
+        <dex dex="C:\Users\G777\Desktop\MagicCamera-master\RefreshListView\app\build\intermediates\pre-dexed\debug\com.android.support-support-v4-23.4.0_e58a6a331bbf553ff4ad6ecc6bf397dc5fc45782.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\G777\Desktop\MagicCamera-master\RefreshListView\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\23.4.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="c2c594cace5d83a3227b2b6e658ecbfd586d3ed9">
+        <dex dex="C:\Users\G777\Desktop\MagicCamera-master\RefreshListView\app\build\intermediates\pre-dexed\debug\com.android.support-support-vector-drawable-23.4.0_532ce3819511f52b321f9104c11c6f8886dca16c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\androidstudio\sdk\extras\android\m2repository\com\android\support\support-annotations\23.4.0\support-annotations-23.4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="ffbe55fdb2bb456b1485831706a9eac3300bb6b8">
+        <dex dex="C:\Users\G777\Desktop\MagicCamera-master\RefreshListView\app\build\intermediates\pre-dexed\debug\support-annotations-23.4.0_db8ca3c22bfb3d3524a4e7597e2b92c0278d3bae.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\G777\Desktop\MagicCamera-master\RefreshListView\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.4.0\jars\libs\internal_impl-23.4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="ea3c07504d2c8f4b13aa17c45c1b68ed9c1c3674">
+        <dex dex="C:\Users\G777\Desktop\MagicCamera-master\RefreshListView\app\build\intermediates\pre-dexed\debug\internal_impl-23.4.0_a9561462fe641545f644f970cf86c995cf0821dd.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\G777\Desktop\MagicCamera-master\RefreshListView\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.4.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="548f06de403a9409f00554b3ee12a9fdea0e236c">
+        <dex dex="C:\Users\G777\Desktop\MagicCamera-master\RefreshListView\app\build\intermediates\pre-dexed\debug\com.android.support-appcompat-v7-23.4.0_6997675f6cd8a1fac14a6e7e921ba2fd0708ed8e.jar" />
+    </item>
+
+</items>
